@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LlamaLlama - Login</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='login_style.css') }}">
+</head>
+
+<body>
+  <div class="container">
+
+    <!-- LOGIN -->
+    <section id="login-section">
+      <div class="info">
+        <img src="static/imagenes/logo.jpg" alt="Logo de la pagina web" />
+        <p>Estudiantes<br>Tristan Méndez Mayorga - C24763<br>Johan Loría Martínez - C24410<br>Oscar Fargas Brenes -
+          C22875</p>
+        <p>Profesor<br>Rolando Herrera Sánchez</p>
+        <p>Curso <br> Administración de Bases de Datos</p>
+      </div>
+
+      <div class="form-box">
+        <h2>Iniciar Sesión</h2>
+        <input type="email" placeholder="Correo Electrónico" id="login-email">
+        <input type="password" placeholder="Contraseña" id="login-password">
+        <button onclick="login()">Login</button>
+        <button onclick="showRegister()">Registrarse</button>
+      </div>
+    </section>
+
+    <!-- REGISTRO -->
+    <section id="register-section" class="hidden">
+      <div class="form-box">
+        <h2>Registro</h2>
+        <form method="POST" action="/registrar">
+          <input type="text" name="nombre" placeholder="Nombre" required><br>
+          <input type="text" name="apellido" placeholder="Apellido" required><br>
+          <input type="email" name="correo" placeholder="Correo" required><br>
+          <input type="password" name="contrasena" placeholder="Contraseña" required><br>
+          <input type="text" name="telefono" placeholder="Teléfono" required><br>
+          <button type="submit">Registrar</button>
+          <button onclick="showLogin()">Regresar</button>
+        </form>
+      </div>
+    </section>
+
+  </div>
+  <script src="static/login_script.js"></script>
+  <div id="popup" class="popup hidden">✅ Registro exitoso. Ya puedes iniciar sesión.</div>
+</body>
+
+</html>

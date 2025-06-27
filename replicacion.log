@@ -1,0 +1,365 @@
+2025-06-26 17:53:03,614 - INFO -  INICIANDO SERVICIO DE REPLICACIÓN
+2025-06-26 17:53:03,615 - INFO - --- CICLO 1 ---
+2025-06-26 17:53:03,616 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 17:53:03,617 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 17:53:03,679 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:53:03,736 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:53:03,737 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 17:53:03,740 - INFO -  Conexiones cerradas.
+2025-06-26 17:53:03,740 - INFO -  Guardián en espera durante 60 segundos...
+2025-06-26 17:54:03,742 - INFO - --- CICLO 2 ---
+2025-06-26 17:54:03,742 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 17:54:03,743 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 17:54:03,744 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:54:03,750 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:54:03,751 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 17:54:03,754 - INFO -  Conexiones cerradas.
+2025-06-26 17:54:03,754 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 17:54:03,755 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA (MODO ENCRIPTADO) ---
+2025-06-26 17:54:03,755 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:54:03,764 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:54:03,765 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 17:54:03,767 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 17:54:04,040 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 17:54:04,059 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 17:54:04,060 - INFO - 🔌 Conexiones cerradas.
+2025-06-26 17:54:04,061 - INFO -  Guardián en espera durante 60 segundos...
+2025-06-26 17:55:04,061 - INFO - --- CICLO 3 ---
+2025-06-26 17:55:04,062 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 17:55:04,062 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 17:55:04,063 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:55:04,070 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:55:04,071 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 17:55:04,074 - INFO -  Conexiones cerradas.
+2025-06-26 17:55:04,074 - INFO -  Guardián en espera durante 60 segundos...
+2025-06-26 17:56:04,075 - INFO - --- CICLO 4 ---
+2025-06-26 17:56:04,075 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 17:56:04,077 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 17:56:04,077 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:56:04,086 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:56:04,088 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 17:56:04,091 - INFO -  Conexiones cerradas.
+2025-06-26 17:56:04,091 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 17:56:04,092 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA (MODO ENCRIPTADO) ---
+2025-06-26 17:56:04,092 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:56:04,105 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:56:04,106 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 17:56:04,108 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 17:56:04,384 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 17:56:04,385 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 17:56:04,386 - INFO - 🔌 Conexiones cerradas.
+2025-06-26 17:56:04,387 - INFO -  Guardián en espera durante 60 segundos...
+2025-06-26 17:57:04,388 - INFO - --- CICLO 5 ---
+2025-06-26 17:57:04,389 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 17:57:04,389 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 17:57:04,390 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:57:04,403 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:57:04,405 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 17:57:04,415 - INFO -  Conexiones cerradas.
+2025-06-26 17:57:04,415 - INFO -  Guardián en espera durante 60 segundos...
+2025-06-26 17:58:04,417 - INFO - --- CICLO 6 ---
+2025-06-26 17:58:04,417 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 17:58:04,418 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 17:58:04,419 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:58:04,427 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:58:04,428 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 17:58:04,431 - INFO -  Conexiones cerradas.
+2025-06-26 17:58:04,432 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 17:58:04,432 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA (MODO ENCRIPTADO) ---
+2025-06-26 17:58:04,433 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:58:04,444 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:58:04,446 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 17:58:04,449 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 17:58:04,743 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 17:58:04,752 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 17:58:04,755 - INFO - 🔌 Conexiones cerradas.
+2025-06-26 17:58:04,761 - INFO -  Guardián en espera durante 60 segundos...
+2025-06-26 17:59:04,762 - INFO - --- CICLO 7 ---
+2025-06-26 17:59:04,762 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 17:59:04,763 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 17:59:04,764 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 17:59:04,772 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 17:59:04,773 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 17:59:04,776 - INFO -  Conexiones cerradas.
+2025-06-26 17:59:04,778 - INFO -  Guardián en espera durante 60 segundos...
+2025-06-26 17:59:57,871 - INFO - 
+ Proceso de replicación detenido por el usuario.
+2025-06-26 18:22:07,218 - INFO -  INICIANDO SERVICIO DE REPLICACIÓN
+2025-06-26 18:22:07,221 - INFO - --- CICLO 1 ---
+2025-06-26 18:22:07,221 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:22:07,222 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 18:22:07,294 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:22:07,439 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:22:07,441 - INFO -  Se encontraron 1 mensajes nuevos.
+2025-06-26 18:22:07,446 - ERROR - ❌ Ocurrió un error durante la replicación diferencial: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`bd_proyecto_replica`.`mensajes`, CONSTRAINT `mensajes_ibfk_1` FOREIGN KEY (`id_emisor`) REFERENCES `usuarios` (`id_usuario`))
+2025-06-26 18:22:07,452 - INFO -  Conexiones cerradas.
+2025-06-26 18:22:07,453 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:23:07,455 - INFO - --- CICLO 2 ---
+2025-06-26 18:23:07,455 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:23:07,455 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 18:23:07,458 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:23:07,465 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:23:07,466 - INFO -  Se encontraron 1 mensajes nuevos.
+2025-06-26 18:23:07,467 - ERROR - ❌ Ocurrió un error durante la replicación diferencial: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`bd_proyecto_replica`.`mensajes`, CONSTRAINT `mensajes_ibfk_1` FOREIGN KEY (`id_emisor`) REFERENCES `usuarios` (`id_usuario`))
+2025-06-26 18:23:07,472 - INFO -  Conexiones cerradas.
+2025-06-26 18:23:07,473 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:23:07,473 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:23:07,474 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:23:07,481 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:23:07,482 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 18:23:07,484 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 18:23:07,747 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 18:23:07,759 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 18:23:07,760 - INFO -  Conexiones cerradas.
+2025-06-26 18:23:07,760 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:24:07,761 - INFO - --- CICLO 3 ---
+2025-06-26 18:24:07,761 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:24:07,762 - INFO -  Último ID de mensaje replicado: 2006
+2025-06-26 18:24:07,763 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:24:07,772 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:24:07,772 - INFO -  Se encontraron 1 mensajes nuevos.
+2025-06-26 18:24:07,775 - INFO -  Replicación diferencial finalizada. Último ID procesado: 2007
+2025-06-26 18:24:07,777 - INFO -  Conexiones cerradas.
+2025-06-26 18:24:07,777 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:25:07,778 - INFO - --- CICLO 4 ---
+2025-06-26 18:25:07,778 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:25:07,779 - INFO -  Último ID de mensaje replicado: 2007
+2025-06-26 18:25:07,780 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:25:07,788 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:25:07,789 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 18:25:07,791 - INFO -  Conexiones cerradas.
+2025-06-26 18:25:07,791 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:25:07,792 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:25:07,793 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:25:07,801 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:25:07,802 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 18:25:07,804 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 18:25:08,108 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 18:25:08,120 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 18:25:08,121 - INFO -  Conexiones cerradas.
+2025-06-26 18:25:08,122 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:26:08,123 - INFO - --- CICLO 5 ---
+2025-06-26 18:26:08,123 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:26:08,124 - INFO -  Último ID de mensaje replicado: 2007
+2025-06-26 18:26:08,125 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:26:08,133 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:26:08,135 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 18:26:08,138 - INFO -  Conexiones cerradas.
+2025-06-26 18:26:08,138 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:27:08,139 - INFO - --- CICLO 6 ---
+2025-06-26 18:27:08,140 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:27:08,141 - INFO -  Último ID de mensaje replicado: 2007
+2025-06-26 18:27:08,141 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:27:08,149 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:27:08,150 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 18:27:08,152 - INFO -  Conexiones cerradas.
+2025-06-26 18:27:08,153 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:27:08,153 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:27:08,154 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:27:08,160 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:27:08,161 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 18:27:08,163 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 18:27:08,418 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 18:27:08,430 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 18:27:08,431 - INFO -  Conexiones cerradas.
+2025-06-26 18:27:08,432 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:28:08,433 - INFO - --- CICLO 7 ---
+2025-06-26 18:28:08,433 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:28:08,434 - INFO -  Último ID de mensaje replicado: 2007
+2025-06-26 18:28:08,435 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:28:08,442 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:28:08,443 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 18:28:08,446 - INFO -  Conexiones cerradas.
+2025-06-26 18:28:08,446 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:29:08,448 - INFO - --- CICLO 8 ---
+2025-06-26 18:29:08,448 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:29:08,449 - INFO -  Último ID de mensaje replicado: 2007
+2025-06-26 18:29:08,450 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:29:08,458 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:29:08,459 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 18:29:08,461 - INFO -  Conexiones cerradas.
+2025-06-26 18:29:08,462 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:29:08,463 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:29:08,464 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:29:08,472 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:29:08,473 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 18:29:08,475 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 18:29:08,776 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 18:29:08,796 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 18:29:08,797 - INFO -  Conexiones cerradas.
+2025-06-26 18:29:08,797 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:30:08,799 - INFO - --- CICLO 9 ---
+2025-06-26 18:30:08,799 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:30:08,800 - INFO -  Último ID de mensaje replicado: 2007
+2025-06-26 18:30:08,801 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:30:08,808 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:30:08,808 - INFO -  Se encontraron 1 mensajes nuevos.
+2025-06-26 18:30:08,814 - INFO -  Replicación diferencial finalizada. Último ID procesado: 2008
+2025-06-26 18:30:08,816 - INFO -  Conexiones cerradas.
+2025-06-26 18:30:08,817 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:31:08,817 - INFO - --- CICLO 10 ---
+2025-06-26 18:31:08,817 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:31:08,818 - INFO -  Último ID de mensaje replicado: 2008
+2025-06-26 18:31:08,818 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:31:08,826 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:31:08,827 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 18:31:08,830 - INFO -  Conexiones cerradas.
+2025-06-26 18:31:08,830 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:31:08,830 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:31:08,831 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:31:08,840 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:31:08,840 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 18:31:08,842 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 18:31:09,101 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 18:31:09,114 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 18:31:09,115 - INFO -  Conexiones cerradas.
+2025-06-26 18:31:09,115 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:32:09,117 - INFO - --- CICLO 11 ---
+2025-06-26 18:32:09,117 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:32:09,118 - INFO -  Último ID de mensaje replicado: 2008
+2025-06-26 18:32:09,119 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:32:09,126 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:32:09,126 - INFO -  Se encontraron 1 mensajes nuevos.
+2025-06-26 18:32:09,133 - INFO -  Replicación diferencial finalizada. Último ID procesado: 2009
+2025-06-26 18:32:09,135 - INFO -  Conexiones cerradas.
+2025-06-26 18:32:09,136 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:33:09,137 - INFO - --- CICLO 12 ---
+2025-06-26 18:33:09,137 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:33:09,138 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:33:09,139 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:33:09,146 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:33:09,147 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 18:33:09,149 - INFO -  Conexiones cerradas.
+2025-06-26 18:33:09,149 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:33:09,149 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:33:09,150 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:33:09,158 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:33:09,159 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 18:33:09,161 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 18:33:09,423 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 18:33:09,437 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 18:33:09,438 - INFO -  Conexiones cerradas.
+2025-06-26 18:33:09,439 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:34:09,440 - INFO - --- CICLO 13 ---
+2025-06-26 18:34:09,441 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:34:09,442 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:34:09,443 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:34:09,453 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:34:09,455 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 18:34:09,458 - INFO -  Conexiones cerradas.
+2025-06-26 18:34:09,459 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:35:09,460 - INFO - --- CICLO 14 ---
+2025-06-26 18:35:09,460 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:35:09,461 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:35:09,462 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:35:09,470 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:35:09,471 - INFO -  No hay mensajes nuevos para replicar.
+2025-06-26 18:35:09,472 - INFO -  Conexiones cerradas.
+2025-06-26 18:35:09,472 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:35:09,473 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:35:09,473 - INFO - ✅ Conexión a SQL Server exitosa.
+2025-06-26 18:35:09,481 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:35:09,481 - INFO -  Leyendo datos encriptados desde SQL Server...
+2025-06-26 18:35:09,483 - INFO -  Vaciando tablas en la base de datos de réplica (MySQL)...
+2025-06-26 18:35:09,761 - INFO -  Escribiendo datos encriptados en MySQL...
+2025-06-26 18:35:09,776 - INFO -  ¡Replicación encriptada completa finalizada con éxito!
+2025-06-26 18:35:09,777 - INFO -  Conexiones cerradas.
+2025-06-26 18:35:09,778 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:36:09,778 - INFO - --- CICLO 15 ---
+2025-06-26 18:36:09,778 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:36:09,779 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:36:09,782 - ERROR - ❌ Error al conectar a SQL Server: ('HY000', "[HY000] [Microsoft][ODBC Driver 17 for SQL Server]Unspecified error occurred on SQL Server. Connection may have been terminated by the server. (0) (SQLSetConnectAttr(SQL_ATTR_AUTOCOMMIT)); [HY000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'DESKTOP-L5U5RJ5\\Usuario'. (18456); [HY000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [HY000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot continue the execution because the session is in the kill state. (596)")
+2025-06-26 18:36:09,792 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:36:09,793 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:37:09,794 - INFO - --- CICLO 16 ---
+2025-06-26 18:37:09,794 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:37:09,796 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:37:09,818 - ERROR - ❌ Error al conectar a SQL Server: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142)")
+2025-06-26 18:37:09,827 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:37:09,828 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:37:09,829 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:37:09,845 - ERROR - ❌ Error al conectar a SQL Server: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142)")
+2025-06-26 18:37:09,855 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:37:09,855 - ERROR - ❌ No se pudo establecer conexión con una de las bases de datos.
+2025-06-26 18:37:09,856 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:38:09,858 - INFO - --- CICLO 17 ---
+2025-06-26 18:38:09,858 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:38:09,859 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:38:09,874 - ERROR - ❌ Error al conectar a SQL Server: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142)")
+2025-06-26 18:38:09,882 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:38:09,882 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:39:09,884 - INFO - --- CICLO 18 ---
+2025-06-26 18:39:09,885 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:39:09,886 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:39:09,905 - ERROR - ❌ Error al conectar a SQL Server: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142)")
+2025-06-26 18:39:09,915 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:39:09,915 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:39:09,916 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:39:09,936 - ERROR - ❌ Error al conectar a SQL Server: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142)")
+2025-06-26 18:39:09,945 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:39:09,945 - ERROR - ❌ No se pudo establecer conexión con una de las bases de datos.
+2025-06-26 18:39:09,946 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:40:09,947 - INFO - --- CICLO 19 ---
+2025-06-26 18:40:09,947 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:40:09,948 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:40:09,962 - ERROR - ❌ Error al conectar a SQL Server: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142)")
+2025-06-26 18:40:09,971 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:40:09,971 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:41:09,972 - INFO - --- CICLO 20 ---
+2025-06-26 18:41:09,972 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:41:09,973 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:41:09,987 - ERROR - ❌ Error al conectar a SQL Server: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142)")
+2025-06-26 18:41:09,996 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:41:09,996 - INFO - El contador es par. Ejecutando réplica completa adicional.
+2025-06-26 18:41:09,996 - INFO - 
+--- INICIANDO REPLICACIÓN COMPLETA ---
+2025-06-26 18:41:10,011 - ERROR - ❌ Error al conectar a SQL Server: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142)")
+2025-06-26 18:41:10,019 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:41:10,019 - ERROR - ❌ No se pudo establecer conexión con una de las bases de datos.
+2025-06-26 18:41:10,020 - INFO -  En espera durante 60 segundos...
+2025-06-26 18:42:10,022 - INFO - --- CICLO 21 ---
+2025-06-26 18:42:10,022 - INFO - 
+--- INICIANDO REPLICACIÓN DIFERENCIAL (NUEVOS MENSAJES) ---
+2025-06-26 18:42:10,023 - INFO -  Último ID de mensaje replicado: 2009
+2025-06-26 18:42:10,037 - ERROR - ❌ Error al conectar a SQL Server: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel. (17142)")
+2025-06-26 18:42:10,049 - INFO - ✅ Conexión a MySQL exitosa.
+2025-06-26 18:42:10,050 - INFO -  En espera durante 60 segundos...

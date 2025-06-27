@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>LlamaLlama - Mensajeria</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='home_style.css') }}">
+</head>
+
+<body>
+  <div class="main-container">
+    <div class="sidebar">
+      <h2>Mensajería</h2>
+      <button onclick="mostrarChats()">Chats</button>
+      <button onclick="mostrarContactos()">Contactos</button>
+      <form id="logout-form" action="/logout" method="POST">
+        <button type="submit">Cerrar sesión</button>
+      </form>
+    </div>
+
+    <div id="chat-area" class="chat-area" style="display: none;">
+      <h3>Selecciona un contacto</h3>
+
+      <div id="lista-contactos-chat" style="margin-bottom: 20px;">
+        <div id="lista-contactos"></div>
+      </div>
+
+      <div id="form-mensaje-container" style="display: none; height: 100%; display: flex; flex-direction: column;">
+        <h3>Enviar mensaje a <span id="contacto-seleccionado"></span></h3>
+        <div id="mensajes" style="flex-grow: 1; overflow-y: auto;">
+        </div>
+        <form id="form-enviar-mensaje" onsubmit="enviarMensaje(event)">
+          <input type="hidden" id="contacto-id" name="contacto_id" required>
+          <input type="text" id="mensaje" name="mensaje" required>
+          <button type="submit">Enviar</button>
+        </form>
+        <div id="mensaje-envio"></div>
+      </div>
+    </div>
+
+    <div class="contactos-area" id="contactos-area" style="display: none; padding: 20px;">
+      <h3>Agregar nuevo contacto</h3>
+      <form onsubmit="agregarContacto(event)">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required>
+        <label for="apellido">Apellido:</label>
+        <input type="text" id="apellido" name="apellido" required>
+        <label for="telefono">Teléfono:</label>
+        <input type="text" id="telefono" name="telefono" required>
+        <button type="submit">Agregar Contacto</button>
+      </form>
+      <div id="mensaje-contacto"></div>
+    </div>
+
+    <div class="chat-placeholder" id="chat-placeholder">
+      <p style="text-align:center; margin-top: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;Bienvenido, selecciona una opción en el menú.</p>
+    </div>
+
+  </div>
+  </div>
+  <script src="{{ url_for('static', filename='login_script.js') }}"></script>
+</body>
+
+</html>

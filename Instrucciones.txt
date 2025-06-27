@@ -1,0 +1,21 @@
+1) Para la ejecución de este proyecto se tiene que crear
+el entorno virtual para encapsular el mismo y que su funcionamiento sea óptimo
+Los siguientes comandos son para gitbash o bien powershell:
+Powershell: .\venv\Scripts\activate
+GitBash: source venv/Scripts/activate
+
+
+2) Después de ejecutar el entorno y que nos salga el (venv)
+Ejecutamos la api directamente con el comando 
+Python y la ruta exacta donde se encuentra el archivo app.py
+por ejemplo python c:\Proyecto_Bases_Datos\PROYECTO-BASES-DE-DATOS\app.py
+
+3) Después de levantar la api verificar que funcione en la siguiente dirección: http://127.0.0.1:5000/
+Levantamos el archivo llamado replicacion.py con el comando python replicacion.py
+
+Notas:
+El archivo de texto estado_db.txt, simboliza y da a entender que motor de base de datos esta funcionando
+principal --> SQLSERVER
+secundario--> MYSQL
+
+El archivo replicacion.log, es solamente para visualizar los logs
